@@ -102,5 +102,5 @@ I am Oforah Chukwudumeje a  passionate data analyst experieced in turning raw da
 - [Email - chukwudumejeoforah@gmail.conm]
 
 
-### ✔Conclusion
+### Conclusion
 The BlinkIT dataset reveals that strategic visibility, high product ratings, and outlet characteristics directly influence sales performance. With deeper integration of time-based and customer-level data, the analysis can be expanded into predictive and prescriptive insights to drive growth.

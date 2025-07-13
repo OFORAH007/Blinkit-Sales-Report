@@ -21,7 +21,7 @@
 ### Project Overview
 This project provides a comprehensive analysis of BlinkIT's grocery data to derive insights that support sales performance optimization, customer satisfaction, and inventory planning. The dataset includes product details, outlet characteristics, and sales metrics across various item types and store formats.
 
-<img width="1707" height="853" alt="Screenshot 2025-07-10 141142" src="https://github.com/user-attachments/assets/bae2a21e-b610-4e5c-b98c-cbe6694da22e" />
+![Blinkit-Enters-Hyperlocal-ftr-760x570](https://github.com/user-attachments/assets/64259773-5382-442e-a7b0-34764b2f1bef)
 
 
 ### Objective

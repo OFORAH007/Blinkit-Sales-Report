@@ -82,19 +82,19 @@ Key visuals created include:
 - Visuals available in my Github repository's Visualizations folder.
 
 
-### Limitations
+### ❗Limitations
 - No time-series data to analyze seasonality.
 - Rating appears skewed (mean ~4), possibly not a true customer review metric.
   
 
-### Future Improvement
+### 🚀Future Improvement
 - Integrate time-based sales data for trend and seasonality analysis.
 - Use external data (e.g., weather, location demographics) for demand forecasting.
 - Expand analysis with real-time sales dashboards using Power BI or Tableau
 - Build a predictive sales model using regression and ensemble methods.
 - 
 
-### About Me 
+### 😄About Me 
 I am Oforah Chukwudumeje a  passionate data analyst experieced in turning raw data into business intelligence using programming languages (Python and SQL) and visualization tools (Excel, Power BI & Taleau). I specialize in Data Cleaning, Data Visualization and story telling and I am also certified in Power BI, Advanced Excel, SQL [ACCESS](https://1drv.ms/f/c/dda1fced96c7fa03/Er93RtX479RDgV6BSIuKDFQBzyjDgV_RzQmG0dnH043QxA?e=vyuuLO)
 
 - [Linkedin - Link me up](https://www.linkedin.com/in/oforah/)
@@ -102,5 +102,5 @@ I am Oforah Chukwudumeje a  passionate data analyst experieced in turning raw da
 - [Email - chukwudumejeoforah@gmail.conm]
 
 
-### Conclusion
+### ✔️Conclusion
 The BlinkIT dataset reveals that strategic visibility, high product ratings, and outlet characteristics directly influence sales performance. With deeper integration of time-based and customer-level data, the analysis can be expanded into predictive and prescriptive insights to drive growth.

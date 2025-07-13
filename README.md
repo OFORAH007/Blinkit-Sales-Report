@@ -96,9 +96,10 @@ Key visuals created include:
 
 ### About Me 
 I am Oforah Chukwudumeje a  passionate data analyst experieced in turning raw data into business intelligence using programming languages (Python and SQL) and visualization tools (Excel, Power BI & Taleau). I specialize in Data Cleaning, Data Visualization and story telling and I am also certified in Power BI, Advanced Excel, SQL [ACCESS](https://1drv.ms/f/c/dda1fced96c7fa03/Er93RtX479RDgV6BSIuKDFQBzyjDgV_RzQmG0dnH043QxA?e=vyuuLO)
-[Linkedin - Link me up](https://www.linkedin.com/in/oforah/)
-[Github - Connect with me](https://github.com/oforah007)
-[Email - chukwudumejeoforah@gmail.conm]
+
+- [Linkedin - Link me up](https://www.linkedin.com/in/oforah/)
+- [Github - Connect with me](https://github.com/oforah007)
+- [Email - chukwudumejeoforah@gmail.conm]
 
 
 ### Conclusion
